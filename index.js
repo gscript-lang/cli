@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 const arguments = process.argv.slice(2);
 const { Compiler } = require('gscript-compiler');
 
