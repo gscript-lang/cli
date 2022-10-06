@@ -1,6 +1,6 @@
 {
   "name": "gscript-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI Tool For The GScript Programming Language ✨",
   "main": "index.js",
   "bin": {
@@ -30,6 +30,6 @@
     "gscript"
   ],
   "dependencies": {
-    "gscript-compiler": "^1.1.6"
+    "gscript-compiler": "^1.1.8"
   }
 }
